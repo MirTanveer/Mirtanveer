@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on ....Gene Sequencing, Understanding Non-Coding RNA, Secne Understanding
-- 🌱 I’m currently learning ....Deep Learning Models, Drug Discovery Models
+- 🔭 I’m currently working on ...Secene Understanding, Resoultion Improvement, Gene Sequencing, Object Tracking 
+- 🌱 I’m currently learning ....Deep Learning Models, ML Models
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ....Cricket and Politics
 - 📫 How to reach me: ...mtanveermir116@gmail.com
