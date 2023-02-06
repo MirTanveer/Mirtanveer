@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on ...Secene Understanding, Resoultion Improvement, Gene Sequencing, Object Tracking 
+- 🔭 I’m currently working on ...Computational Biology, Bioinformatics, Gene Sequencing
 - 🌱 I’m currently learning ....Deep Learning Models, ML Models
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on .....
 - 💬 Ask me about ....Cricket and Politics
 - 📫 How to reach me: ...mtanveermir116@gmail.com
